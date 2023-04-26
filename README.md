@@ -3,7 +3,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/IducSoft/PerfilGithubImage/blob/master/segundo%20logo.png" alt="JuveYell" width="300px">
+<img src="https://github.com/IducSoft/PerfilGithubImage/blob/master/segundo%20logo.png" alt="JuveYell" width="300px" style="margin:0 auto;" >
 </p>
 </div>
 
