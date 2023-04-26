@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate developer and focused on my professional growth, I am self-taught, I learn quickly and I have the skills to work in a team, from Venezuela</h3>
 
 <div>
-<p style = 'text-align:center;'>
+<p align="center" >
 <img src="https://github.com/IducSoft/PerfilGithubImage/blob/master/segundo%20logo.png" alt="JuveYell" width="300px" style="margin:0 auto;" >
 </p>
 </div>
