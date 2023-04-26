@@ -3,7 +3,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="https://drive.google.com/file/d/1nXFOTp3FwQzCW1wPc7f0PxZ9-TPhxcvd/view" alt="JuveYell" width="300px">
 </p>
 </div>
 
