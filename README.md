@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Isaac Urdaneta</h1>
-<h3 align="center">I am a passionate developer and focused on my professional growth, I am self-taught, I learn quickly and I have the skills to work in a team, from Venezuela</h3>
+<h1 align="center">Hola 👋 Soy Isaac Urdaneta, me encuentro Cursando la carrera de Ingeniería en sistemas.
+Tengo experiencia en el desarrollo web Frontend desde 2022, me enfoco en el lenguaje Javascript y su extensión Typescript.</h1>
+<h3 align="center">
+Si bien comencé con proyectos pesonales, al poco ingresé a una startup Argentina donde Apliqué y evidencié mi talento.
+
+Me encuentro desarrollando una app con un equipo magnifico de personas talentosas donde queremos lanzar una herramienta digital de gran alcance.
+
+Actualmente estoy aprendiendo y formandome de forma paralela en el desarrollo Backend con typescript con el propósito de aumentar mi horizonte de habilidades técnicas.
+
+Me apasiona lo que hago, aprendo y me adapto rapidamente, habilidad esencial para un entorno tan cambiante como lo es el desarrollo de software.
+
+Si quieres saber más de mi, contactame, seguro necesitas alguien con mis habilidades en tu equipo de desarrollo.
+</h3>
 
 <div>
 <p align="center" >
