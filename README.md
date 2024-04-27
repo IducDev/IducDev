@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋 Soy Isaac Urdaneta, me encuentro Cursando la carrera de Ingeniería en sistemas.
-Tengo experiencia en el desarrollo web Frontend desde 2022, me enfoco en el lenguaje Javascript y su extensión Typescript.</h1>
+
+</h1>
 <h3 align="center">
+  Tengo experiencia en el desarrollo web Frontend desde 2022, me enfoco en el lenguaje Javascript y su extensión Typescript.
 Si bien comencé con proyectos pesonales, al poco ingresé a una startup Argentina donde Apliqué y evidencié mi talento.
 
 Me encuentro desarrollando una app con un equipo magnifico de personas talentosas donde queremos lanzar una herramienta digital de gran alcance.
