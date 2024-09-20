@@ -16,7 +16,7 @@ Si quieres saber más de mi, contactame, seguro necesitas alguien con mis habili
 
 <div>
 <p align="center" >
-<img src="https://isaac-urdaneta.netlify.app/assets/ducdev.png" alt="JuveYell" width="600px" style="margin:0 auto;" >
+<img src="https://github.com/IducDev/my-portfolio/blob/master/public/iducdev.png" alt="JuveYell" width="600px" style="margin:0 auto;" >
 </p>
 </div>
 
