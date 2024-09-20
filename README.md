@@ -1,3 +1,9 @@
+<div>
+<p align="center" >
+<img src="https://github.com/IducDev/my-portfolio/blob/master/public/iducdev.png" alt="JuveYell" width="600px" style="margin:0 auto;" >
+</p>
+</div>
+
 <h1 align="center">Hola 👋 Soy Isaac Urdaneta, me encuentro Cursando la carrera de Ingeniería en sistemas.
 
 </h1>
@@ -14,11 +20,7 @@ Me apasiona lo que hago, aprendo y me adapto rapidamente, habilidad esencial par
 Si quieres saber más de mi, contactame, seguro necesitas alguien con mis habilidades en tu equipo de desarrollo.
 </h3>
 
-<div>
-<p align="center" >
-<img src="https://github.com/IducDev/my-portfolio/blob/master/public/iducdev.png" alt="JuveYell" width="600px" style="margin:0 auto;" >
-</p>
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iducsoft&label=Profile%20views&color=0e75b6&style=flat" alt="iducsoft" /> </p>
 
