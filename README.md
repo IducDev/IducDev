@@ -7,7 +7,7 @@ Si bien comencé con proyectos pesonales, al poco ingresé a una startup Argenti
 
 Me encuentro desarrollando una app con un equipo magnifico de personas talentosas donde queremos lanzar una herramienta digital de gran alcance.
 
-Actualmente estoy aprendiendo y formandome de forma paralela en el desarrollo Backend con typescript con el propósito de aumentar mi horizonte de habilidades técnicas.
+Actualmente estoy aprendiendo y formandome de forma paralela en el desarrollo Mobile con Flutter/Dart con el propósito de aumentar mi horizonte de habilidades técnicas.
 
 Me apasiona lo que hago, aprendo y me adapto rapidamente, habilidad esencial para un entorno tan cambiante como lo es el desarrollo de software.
 
