@@ -26,19 +26,6 @@ Si quieres saber más de mi, contactame, seguro necesitas alguien con mis habili
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iducsoft" alt="iducsoft" /></a> </p>
 
-- 🔭 I’m currently working on [Juntas](https://juntaas.vercel.app/)
-
-- 🌱 I’m currently learning **Node.js, Express, mongoDB, Nest.js**
-
-- 👨‍💻 All of my projects are available at [in Proccess](in Proccess)
-
-- 💬 Ask me about **React.js, TailwindCSS, Bootstrap, JavaScript**
-
-- 📫 How to reach me **urdanetacuarteisaacdavid@gmail.com**
-
-- 📄 Know about my experiences [in Proccess](in Proccess)
-
-- ⚡ Fun fact **I like to read, clear my mind after so much programming, go out to eat, learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
