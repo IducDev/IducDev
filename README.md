@@ -4,20 +4,9 @@
 </p>
 </div>
 
-<h1 align="center">Hola 👋 Soy Isaac Urdaneta, me encuentro Cursando la carrera de Ingeniería en sistemas.
-
-</h1>
+<h1 align="center">Hi, I'm Isaac Urdaneta, Systems Engineering </h1>
 <h3 align="center">
-  Tengo experiencia en el desarrollo web Frontend desde 2022, me enfoco en el lenguaje Javascript y su extensión Typescript.
-Si bien comencé con proyectos pesonales, al poco ingresé a una startup Argentina donde Apliqué y evidencié mi talento.
-
-Me encuentro desarrollando una app con un equipo magnifico de personas talentosas donde queremos lanzar una herramienta digital de gran alcance.
-
-Actualmente estoy aprendiendo y formandome de forma paralela en el desarrollo Mobile con Flutter/Dart con el propósito de aumentar mi horizonte de habilidades técnicas.
-
-Me apasiona lo que hago, aprendo y me adapto rapidamente, habilidad esencial para un entorno tan cambiante como lo es el desarrollo de software.
-
-Si quieres saber más de mi, contactame, seguro necesitas alguien con mis habilidades en tu equipo de desarrollo.
+I am Isaac Urdaneta, a passionate Frontend Developer with three years of experience in the industry. My educational background and professional journey have equipped me with strong skills in TypeScript and JavaScript, enabling me to develop interactive and efficient web applications using React and Next.js. Driven by my enthusiasm for web development, I have expanded my expertise beyond traditional front-end technologies. I am currently enhancing my skills in the Flutter ecosystem, aiming to integrate these tools into my projects to deliver comprehensive and robust solutions.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iducsoft&label=Profile%20views&color=0e75b6&style=flat" alt="iducsoft" /> </p>
